@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gursimran5
-- 👀 I’m interested in developing websites using bootstrap and php
-- 🌱 I’m currently learning Phthon and angular
+- 👀 I’m interested in developing websites using Html, Css, Javascript and php
+- 🌱 I’m currently learning Python and angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :gursimran.haman@gmail.com
 <!---
